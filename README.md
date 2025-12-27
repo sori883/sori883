@@ -1,3 +1,3 @@
 # I Love Ramen
 
-![IMG_9876](https://github.com/user-attachments/assets/d5b66c45-5139-4e2b-9362-07116dd792ff)
+![ramen-suko](https://github.com/user-attachments/assets/e5d12447-1f5c-419a-988e-07e34bb00da9)
