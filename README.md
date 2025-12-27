@@ -1,6 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sori883)](https://github.com/anuraghazra/github-readme-stats)
+# I Love Ramen
 
-<!--
+<!--![IMG_9876](https://github.com/user-attachments/assets/d5b66c45-5139-4e2b-9362-07116dd792ff)
+
 **sori883/sori883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
